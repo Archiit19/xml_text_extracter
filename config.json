@@ -1,0 +1,12 @@
+{
+  "input_directory" : "input_data_directory_name",
+  "output_directory" : "output_directory_name",
+  "xml_file_name" : "XmlFileName",
+  "xml_tag" : "TagName",
+  "xml_attribute" : "Attribute_if_known",
+  "search_text_list" : [
+    "text",
+    "to",
+    "search"
+  ]
+}
